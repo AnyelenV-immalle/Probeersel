@@ -4,4 +4,3 @@ Hier vind je extra emoticons:
 :relaxed:
 :smirk:	
 :kissing_closed_eyes:
-:satisfied:
