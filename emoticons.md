@@ -1,4 +1,4 @@
-#Emoticons
+# Emoticons
 Hier vind je extra emoticons:
 :heart_eyes:
 :relaxed:
